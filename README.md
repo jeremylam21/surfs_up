@@ -4,7 +4,11 @@
 The purpose of this analysis was to filter the given database (hawaii.sqlite) by both June and December and retrieve the summary temperature statistics for both months. 
 
 ## Results
-When comparing the 2 screenshots below, there are a few major insights that we can gather. 
+When comparing the 2 screenshots below, there are a few major insights that we can gather.
+
+![alt text](https://github.com/jeremylam21/surfs_up/blob/5f7d328840b50ef85e83dcc13e755c4013be4984/june%20summary%20stats.png)
+
+![alt text](https://github.com/jeremylam21/surfs_up/blob/5f7d328840b50ef85e83dcc13e755c4013be4984/december%20summary%20stats.png)
 
 1. The average minimum temperatures are lower in December compared to June. 
 2. The maximum temperature remained relatively the same.
